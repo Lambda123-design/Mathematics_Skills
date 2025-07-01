@@ -1,2 +1,7 @@
 # Mathematics_Skills
-Details my skills on Mathematics, which is an essential in my field of Data Science
+
+1. **Linear Algebra**
+
+2. **Probability and Statisitcs**
+
+3. **Differential Calculus**
